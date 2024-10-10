@@ -10,15 +10,20 @@
 
 ## Features
 
-** ➕ Increment Count: Adds 1 to the current count.
-** ➖ Decrement Count: Subtracts 1 from the current count.
-** 🔄 Reset Count: Resets the counter back to 0.
-** ⚡ Responsive Design: Works well on both desktop and mobile.
+**➕ Increment Count: Adds 1 to the current count.
+
+**➖ Decrement Count: Subtracts 1 from the current count.
+
+**🔄 Reset Count: Resets the counter back to 0.
+
+**⚡ Responsive Design: Works well on both desktop and mobile.
 
 # Technologies Used
 
-** **React:**  For the frontend framework.
-** **CSS:**   For basic styling.
-** **React Hooks:**  To manage the state of the counter.
+* **React:** *  For the frontend framework.
+
+* **CSS:** *   For basic styling.
+
+* **React Hooks:** *  To manage the state of the counter.
 
 
