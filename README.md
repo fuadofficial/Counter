@@ -20,10 +20,10 @@
 
 # Technologies Used
 
-* **React:** *  For the frontend framework.
+* **React:**   For the frontend framework.
 
-* **CSS:** *   For basic styling.
+* **CSS:**   For basic styling.
 
-* **React Hooks:** *  To manage the state of the counter.
+* **React Hooks:**   To manage the state of the counter.
 
 
