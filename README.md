@@ -10,13 +10,13 @@
 
 ## Features
 
-**➕ Increment Count: Adds 1 to the current count.
+**➕ Increment Count:** Adds 1 to the current count.
 
-**➖ Decrement Count: Subtracts 1 from the current count.
+**➖ Decrement Count:** Subtracts 1 from the current count.
 
-**🔄 Reset Count: Resets the counter back to 0.
+**🔄 Reset Count:** Resets the counter back to 0.
 
-**⚡ Responsive Design: Works well on both desktop and mobile.
+**⚡ Responsive Design:** Works well on both desktop and mobile.
 
 # Technologies Used
 
