@@ -33,12 +33,12 @@
 
 
 * **React:**   For the frontend framework.
-* 
+
 
 * **CSS:**   For basic styling.
-* 
+
 
 * **React Hooks:**   To manage the state of the counter.
-* 
+
 
 
