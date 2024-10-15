@@ -1,6 +1,8 @@
 
 
+
 ![Vite + React - Google Chrome 10_10_2024 6_55_23 AM](https://github.com/user-attachments/assets/083f7c77-980f-4935-bec0-92cdba402358)
+
 
 
 
@@ -17,6 +19,7 @@
 **🔄 Reset Count:** Resets the counter back to 0.
 
 **⚡ Responsive Design:** Works well on both desktop and mobile.
+
 
 # Technologies Used
 
